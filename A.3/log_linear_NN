@@ -1,0 +1,42 @@
+Hyper-parameter:
+initializer: normal distribution
+optimizer: RMSPropOptimizer(decay=0.8,momentum=0.2)
+batch_size = 64
+training_Epoch = 10
+random_seed: 3989
+
+Performance without training:
+The mean of episode length is: 18.05  and the standard deviation is: 2.35531314266
+The longest step length is: 23
+The mean of reward length is: -0.842756108606  and the standard deviation is: 0.0199907838687
+
+
+Performance with LR=1e-5:
+The mean of episode length is: 18.43  and the standard deviation is: 2.63914758966
+The longest step length is: 24
+The mean of reward length is: -0.839603867712  and the standard deviation is: 0.0223190885259
+
+Performance with LR=1e-4:
+The mean of episode length is: 29.12  and the standard deviation is: 23.6174850482
+The longest step length is: 96
+The mean of reward length is: -0.771759041341  and the standard deviation is: 0.139617548825
+
+Performance with LR=1e-3:
+The mean of episode length is: 24.37  and the standard deviation is: 12.1166455754
+The longest step length is: 51
+The mean of reward length is: -0.796410547597  and the standard deviation is: 0.0935235507106
+
+Performance with LR=1e-2:
+The mean of episode length is: 58.47  and the standard deviation is: 22.5479289515
+The longest step length is: 100
+The mean of reward length is: -0.575563525574  and the standard deviation is: 0.126563363853
+
+Performance with LR=1e-1:
+The mean of episode length is: 30.1  and the standard deviation is: 12.8961234485
+The longest step length is: 81
+The mean of reward length is: -0.752305582211  and the standard deviation is: 0.0886660249799
+
+Performance with LR=0.5:
+The mean of episode length is: 40.46  and the standard deviation is: 10.1670251303
+The longest step length is: 70
+The mean of reward length is: -0.676072924944  and the standard deviation is: 0.0674390799783

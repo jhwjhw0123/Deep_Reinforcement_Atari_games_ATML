@@ -1,0 +1,14 @@
+Pong
+The mean of frame count is: 1109.77  and the standard deviation is: 41.6352867169
+The mean of game score is: -20.5  and the standard deviation is: 0.5
+The mean of discounted score is: -1.05929315342  and the standard deviation is: 0.174738300664
+
+Ms Pacman
+The mean of frame count is: 605.82  and the standard deviation is: 145.492293954
+The mean of game score is: 14.34  and the standard deviation is: 5.6110961496
+The mean of discounted score is: 2.69584056666  and the standard deviation is: 0.553373876785
+
+Boxing
+The mean of frame count is: 2380.06  and the standard deviation is: 13.8707029382
+The mean of game score is: -13.88  and the standard deviation is: 6.39574858793
+The mean of discounted score is: -2.23670050302  and the standard deviation is: 1.40519141422
